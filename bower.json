@@ -5,11 +5,7 @@
     "Telerik"
   ],
   "description": "Kendo UI Web is a set of HTML5 widgets built on jQuery.",
-  "main": [
-    "scripts/kendo.web.min.js",
-    "scripts/kendo.web.min.js.map",
-    "content/kendo.common.min.css"
-  ],
+  "main": [],
   "moduleType": [
     "amd",
     "globals"
