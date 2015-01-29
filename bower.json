@@ -22,13 +22,7 @@
   ],
   "license": "LGPL 3.0",
   "homepage": "http://www.kendoui.com/web.aspx",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
+  "ignore": [],
   "dependencies": {
     "jquery": ">=1.9.1 <=2.1.3"
   }
