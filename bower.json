@@ -1,0 +1,35 @@
+{
+  "name": "kendo-ui-web",
+  "version": "2014.1.318",
+  "authors": [
+    "Telerik"
+  ],
+  "description": "Kendo UI Web is a set of HTML5 widgets built on jQuery.",
+  "main": [
+    "scripts/kendo.web.min.js",
+    "content/kendo.common.min.css"
+  ],
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "html5",
+    "javascript",
+    "jquery",
+    "ui",
+    "framework"
+  ],
+  "license": "LGPL 3.0",
+  "homepage": "http://www.kendoui.com/web.aspx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1 <=2.1.3"
+  }
+}
